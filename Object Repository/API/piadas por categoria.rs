@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>piadas por categoria</name>
+   <name>Piadas por categoria</name>
    <tag></tag>
    <elementGuidId>9a05316d-ec37-47a3-b97b-9b2c4df084a4</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
