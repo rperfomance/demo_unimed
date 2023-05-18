@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_nome</name>
+   <tag></tag>
+   <elementGuidId>1460fc45-d76e-4aaa-96c5-4a46b3c424b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portlet-unimed-mais-proxima']/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb8a75d9-f119-4028-8ee8-ecdd6f5ff4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>878819aa-5957-40e9-b18d-b60280c1e738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UNIMED NACIONAL</value>
+      <webElementGuid>9924aece-b92b-4da3-80ea-bc612bf98f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portlet-unimed-mais-proxima&quot;)/div[@class=&quot;col-12 col-md-4 data-content&quot;]/div[@class=&quot;unimeds&quot;]/div[@class=&quot;box-unimed&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>fca5958c-7014-4257-b4a7-fa6ec2d4c2c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portlet-unimed-mais-proxima']/div/div[2]/div/span</value>
+      <webElementGuid>c1a3149d-f779-439c-ab73-27a471b24d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unimed mais próxima'])[4]/following::span[4]</value>
+      <webElementGuid>dcb790f1-af09-4a37-b5c9-f521cf1ac70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.unimednacional.coop.br'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca0e4f6c-1fbb-4561-8bfa-dfa42b6d84d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UNIMED NACIONAL']/parent::*</value>
+      <webElementGuid>aa43dc19-21be-486f-9920-ca245498f9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/span</value>
+      <webElementGuid>20202adb-d226-47ea-bc12-4d7688cd6d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'UNIMED NACIONAL' or . = 'UNIMED NACIONAL')]</value>
+      <webElementGuid>985dca1b-0177-4e32-9988-6cbb1adcc427</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

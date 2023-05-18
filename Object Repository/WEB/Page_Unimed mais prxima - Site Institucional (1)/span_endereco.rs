@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_endereco</name>
+   <tag></tag>
+   <elementGuidId>2259bbee-8c82-40ce-893d-a2ed6505b572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portlet-unimed-mais-proxima']/div/div[2]/div/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7048ca9-177a-4d2b-a4bb-b26aad48c199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>092d3201-597e-48df-8484-996da1e5f6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RUA FREI CANECA, 1355 BELA VISTA, 1307003 - SÃO PAULO / SP</value>
+      <webElementGuid>0a9fae8a-2c24-4f80-be5d-1705e4ad9e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portlet-unimed-mais-proxima&quot;)/div[@class=&quot;col-12 col-md-4 data-content&quot;]/div[@class=&quot;unimeds&quot;]/div[@class=&quot;box-unimed&quot;]/span[@class=&quot;address&quot;]</value>
+      <webElementGuid>a1e2d6dd-2f01-439f-90d8-f8b91e1ca997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portlet-unimed-mais-proxima']/div/div[2]/div/span[4]</value>
+      <webElementGuid>12a64722-d2b1-4348-87f3-b0be6c4dcc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fone:'])[1]/following::span[1]</value>
+      <webElementGuid>5d8c1b0b-da52-444d-b96f-223dc2017670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Nacional Unimed'])[1]/preceding::span[1]</value>
+      <webElementGuid>e5d26010-a3e3-41a3-81eb-307b7bebd5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conheça'])[1]/preceding::span[1]</value>
+      <webElementGuid>3df244d0-b8eb-492b-9ba4-605ac2556093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RUA FREI CANECA, 1355']/parent::*</value>
+      <webElementGuid>9a923176-37af-4666-964d-fd0f8217c0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[4]</value>
+      <webElementGuid>2e901bde-6ef2-45e0-9054-c81bfb004f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'RUA FREI CANECA, 1355 BELA VISTA, 1307003 - SÃO PAULO / SP' or . = 'RUA FREI CANECA, 1355 BELA VISTA, 1307003 - SÃO PAULO / SP')]</value>
+      <webElementGuid>43a291a7-9e77-4cf3-b0c7-49a47495b710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
