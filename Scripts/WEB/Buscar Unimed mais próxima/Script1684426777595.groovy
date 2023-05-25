@@ -40,8 +40,15 @@ String fone = WebUI.getText(findTestObject('WEB/Page_Unimed mais prxima - Site I
 
 String endereco = WebUI.getText(findTestObject('WEB/Page_Unimed mais prxima - Site Institucional (1)/span_endereco'))
 
-f = new File("C:\\Users\\Windows 10\\Documents\\unidade_mais_proxima.txt")
-	
-f.append(nome + "\n");
-f.append(fone+ "\n");
-f.append(endereco);
+f = new File('C:\\Users\\Windows 10\\Documents\\unidade_mais_proxima.txt')
+
+f.append(nome + '\n')
+
+f.append(fone + '\n')
+
+f.append(endereco)
+
+WebUI.takeScreenshot('unimed.png')
+
+WebUI.closeBrowser()
+

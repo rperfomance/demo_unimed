@@ -9,4 +9,9 @@
       <initValue>'https://www.unimed.coop.br/site/'</initValue>
       <name>BaseURL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'xpto'</initValue>
+      <name>massa</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
